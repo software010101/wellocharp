@@ -1,0 +1,13 @@
+C:\Users\belmi\wello\bin\Debug\netcoreapp3.1\wello.exe
+C:\Users\belmi\wello\bin\Debug\netcoreapp3.1\wello.deps.json
+C:\Users\belmi\wello\bin\Debug\netcoreapp3.1\wello.runtimeconfig.json
+C:\Users\belmi\wello\bin\Debug\netcoreapp3.1\wello.runtimeconfig.dev.json
+C:\Users\belmi\wello\bin\Debug\netcoreapp3.1\wello.dll
+C:\Users\belmi\wello\bin\Debug\netcoreapp3.1\wello.pdb
+C:\Users\belmi\wello\obj\Debug\netcoreapp3.1\wello.csprojAssemblyReference.cache
+C:\Users\belmi\wello\obj\Debug\netcoreapp3.1\wello.AssemblyInfoInputs.cache
+C:\Users\belmi\wello\obj\Debug\netcoreapp3.1\wello.AssemblyInfo.cs
+C:\Users\belmi\wello\obj\Debug\netcoreapp3.1\wello.csproj.CoreCompileInputs.cache
+C:\Users\belmi\wello\obj\Debug\netcoreapp3.1\wello.dll
+C:\Users\belmi\wello\obj\Debug\netcoreapp3.1\wello.pdb
+C:\Users\belmi\wello\obj\Debug\netcoreapp3.1\wello.genruntimeconfig.cache
